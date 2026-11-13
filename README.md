@@ -49,3 +49,4 @@ flutter test
 - [Terms of Use](https://www.kutagjej.al/kushtet)
 - [Privacy Policy](https://www.kutagjej.al/privatesia)
 # KuTaGjej-Albanian-Mobile-App
+# KuTaGjej-Albanian-Mobile-App
